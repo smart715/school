@@ -1,0 +1,3 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/schoolms/public_html/newsystem

@@ -22,7 +22,7 @@
 
 ```bash
 composer install
-copy .env.local .env
+copy env .env
 php artisan migrate
 php artisan db:seed
 php artisan key:generate
